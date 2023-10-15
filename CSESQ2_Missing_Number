@@ -1,0 +1,13 @@
+import java.util.Scanner;
+public class CSESQ2_Missing_Number {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        long n = sc.nextLong();
+        long sum = (n * (n + 1)) / 2;
+        for (int i = 1; i < n; i++) {
+            long num = sc.nextLong();
+            sum = sum - num;
+        }
+        System.out.println(sum);
+    }
+}
