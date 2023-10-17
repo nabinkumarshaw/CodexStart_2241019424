@@ -1,4 +1,8 @@
-# CodexStart_2241019424
+# START-CODEX-2241019424
+
+## Introductory problems of CSES - Solution
+
+# About
 
 ## Name - Nabin Kumar Shaw
 ## Registration Number - 2241019424
