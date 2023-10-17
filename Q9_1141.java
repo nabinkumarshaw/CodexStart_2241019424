@@ -1,7 +1,7 @@
 /*
  * Name: Nabin Kumar Shaw
  * Reg No: 2241019424
- * PS LINK:https://cses.fi/problemset/task/1072/
+ * PS LINK:https://cses.fi/problemset/task/1141
  */
 
 import java.util.*;
